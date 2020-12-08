@@ -1,0 +1,4 @@
+C:\Curso_DDD_NetCore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csprojAssemblyReference.cache
+C:\Curso_DDD_NetCore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfoInputs.cache
+C:\Curso_DDD_NetCore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.AssemblyInfo.cs
+C:\Curso_DDD_NetCore\src\Api.Service.Test\obj\Debug\netcoreapp3.1\Api.Service.Test.csproj.CoreCompileInputs.cache

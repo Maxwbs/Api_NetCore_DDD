@@ -1,0 +1,15 @@
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.deps.json
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.json
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.runtimeconfig.dev.json
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.dll
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Curso_DDD_NetCore\src\Api.Data\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csprojAssemblyReference.cache
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfoInputs.cache
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.AssemblyInfo.cs
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CoreCompileInputs.cache
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.csproj.CopyComplete
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.dll
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.pdb
+C:\Curso_DDD_NetCore\src\Api.Data\obj\Debug\netcoreapp3.1\Data.genruntimeconfig.cache
